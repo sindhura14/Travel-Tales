@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Casar de Palomero",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-05T18:42:57.052Z",
+      "notes": "werwer",
+      "position": {
+        "lat": "40.29628651711716",
+        "lng": "-6.262207031250001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Thanjavur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-10T17:25:36.221Z",
+      "notes": " A place with beautiful architecture.",
+      "position": {
+        "lat": "10.660607953624776",
+        "lng": "79.1015625"
+      },
+      "id": 98443199
+    }
+  ]
+}
